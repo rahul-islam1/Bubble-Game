@@ -10,4 +10,5 @@ Bubble-Game Overview:
 5. The game features a countdown timer of 60 seconds, during which the player must score as many points as possible.
 6. When the timer runs out, the game ends, displaying the final score and a button to start a new game.
 
-7. Live Link: https://rahul625865.github.io/Bubble-Game/
+
+Live Link: https://rahul625865.github.io/Bubble-Game/
