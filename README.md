@@ -11,4 +11,5 @@ Bubble-Game Overview:
 6. When the timer runs out, the game ends, displaying the final score and a button to start a new game.
 
 
-Live Link: https://rahul625865.github.io/Bubble-Game/
+Live Link: https://rahul-islam1.github.io/Bubble-Game/
+
